@@ -1,0 +1,187 @@
+{
+    "appraisalName": "Perfomance Appraisal Form ",
+    "appraisalId" : 1,
+    "questions" : [
+        {
+            "questionId" : 1,
+            "questionNo":"1",
+            "question" : "Briefly state your understanding of your main duties and responsibilities",
+            "mainPart" : "A",
+            "mainTopic": "Appraisal to complete before the interview and return to the appraiser",
+            "subPart" : "A1"
+        },
+        {
+            "questionId" : 2,
+            "questionNo":"1",
+            "question" : "Has the past period been good/bad/satisfactory or otherwise for you, and why?",
+            "subPart" : "A2",
+            "subTopic": "Discussion Points"
+        },
+        {
+            "questionId" : 3,
+            "questionNo":"2",
+            "question" : "What do you consider to be your most important achievement this far?"
+        }, 
+        {
+            "questionId" : 4,
+            "questionNo":"3",
+            "question" : "What areas require action inorder to attain an improvement in job performance from you and your supervisor?"
+        },
+        {
+            "questionId" : 5,
+            "questionNo":"4",
+            "question" : "What are some of the actions that have been taken to improve performance from the previous appraisal?"
+        },
+        {
+            "questionId" : 6,
+            "questionNo":"1",
+            "question" : "List the objectives you set out to achieve in the next appraisal period",
+            "subPart" : "A3",
+            "subTopic": "Discussion Points",
+            "table": [
+                {
+                    "Objective" : "",
+                    "How you intend to achieve it" : ""
+                },
+                {
+                    "Objective" : "",
+                    "How you intend to achieve it" : ""
+                },
+                {
+                    "Objective" : "",
+                    "How you intend to achieve it" : ""
+                }
+            ]
+        },
+
+        {
+            "questionId" : 7,
+            "questionNo":"1",
+            "question" : "Rate each Performance Factor on a scale of 1 to 5, as it relates to the performane of individual performance. Specific, objective comments may be included to support the ratings.Ratings scale: (Out of Five) 5 Excellent(consistently exceeds standards) 4 Outstanding (frequently exceeds standards) 3 Satisfactory (generally meets standards) 2 Needs improvement (frequently fails to meet standards) 1 Unacceptable (fails to meet standards)",
+            "mainPart" : "B",
+            "mainTopic": "To be filled during the interview by the Immediate Supervisor",
+            "subPart" : "B1",
+            "subTopic": "Performance Factors",
+            "hiddenColumns": [{"col": "Supervisor Rating","roleId":1}],
+            "hideSupervisorRating": true,
+            "table": [
+                {
+                    "Performance Factor" : "Job Knowledge",
+                    "Self-Rating" : "",
+                    "Supervisor Rating" : "",
+                    "Comment" : ""
+                },
+                {
+                    "Performance Factor" : "Customer service",
+                    "Self-Rating" : "",
+                    "Supervisor Rating" : "",
+                    "Comment" : ""
+                },
+                {
+                    "Performance Factor" : "Reliability (attendance, punctuality)",
+                    "Self-Rating" : "",
+                    "Supervisor Rating" : "",
+                    "Comment" : ""
+                },
+                {
+                    "Performance Factor" : "Initiative and creativity",
+                    "Self-Rating" : "",
+                    "Supervisor Rating" : "",
+                    "Comment" : ""
+                },
+                {
+                    "Performance Factor" : "Productivity (targets achievement)",
+                    "Self-Rating" : "",
+                    "Supervisor Rating" : "",
+                    "Comment" : ""
+                },
+                {
+                    "Performance Factor" : "General Behavior",
+                    "Self-Rating" : "",
+                    "Supervisor Rating" : "",
+                    "Comment" : ""
+                }, 
+                {
+                    "Performance Factor" : "Commitment to safety",
+                    "Self-Rating" : "",
+                    "Supervisor Rating" : "",
+                    "Comment" : ""
+                },
+                {
+                    "Performance Factor" : "Personal appearance and image",
+                    "Self-Rating" : "",
+                    "Supervisor Rating" : "",
+                    "Comment" : ""
+                },
+                {
+                    "Performance Factor" : "Decision making/problem solving",
+                    "Self-Rating" : "",
+                    "Supervisor Rating" : "",
+                    "Comment" : ""
+                },
+                {
+                    "Performance Factor" : "Leadership",
+                    "Self-Rating" : "",
+                    "Supervisor Rating" : "",
+                    "Comment" : ""
+                },
+                {
+                    "Performance Factor" : "Initiative and creativity",
+                    "Self-Rating" : "",
+                    "Supervisor Rating" : "",
+                    "Comment" : ""
+                },
+                {
+                    "Performance Factor" : "Performance Management",
+                    "Self-Rating" : "",
+                    "Supervisor Rating" : "",
+                    "Comment" : ""
+                }
+            ]
+        },
+        {
+            "questionId" : 8,
+            "questionNo":"0",
+            "question" : "Explanation of Overall Percentages 75%-100% Excellent 65%-74% Good 60%-64% Satisfactory 50%-59% Need Improvement Below 50% Poor",
+            "subPart" : "B2",
+            "subTopic": "Target Achievement",
+            "table":[
+                {
+                    "Month":"Target",
+                    "Month1" :"" ,
+                    "Month2" :"",
+                    "Month3": ""
+                },
+                {
+                    "Month":"Achieved",
+                    "Month1" :"" ,
+                    "Month2" :"",
+                    "Month3": ""
+                },
+                {
+                    "Month":"% Variance",
+                   "Month1" :"" ,
+                    "Month2" :"",
+                    "Month3": ""
+                }
+            ]
+        },
+        {
+            "questionId" : 9,
+            "questionNo":"1",
+            "question" : "Comment from employee about the levels of achievement"
+        },
+        {
+            "questionId" : 10,
+            "questionNo":"2",
+            "question" : "Comment from supervisor about the levels of achievement"
+        },
+        {
+            "questionId" : 11,
+            "questionNo":"3",
+            "question" : "What does the employee intend to do different to achieve or surpass the target in future?"
+        }
+
+    ]
+
+}
